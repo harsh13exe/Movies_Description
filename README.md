@@ -1,6 +1,7 @@
 # movie_view
 
-A new Flutter project.
+this project help to provide description of trending movies and serial
+
 
 ## Getting Started
 
