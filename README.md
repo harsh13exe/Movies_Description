@@ -1,18 +1,9 @@
-# movie_view
+
+# Movies_Description
 
 this project help to provide description of trending movies and serial
 
+![Simulator Screenshot - iPhone 15 - 2024-09-01 at 00 33 35](https://github.com/user-attachments/assets/4bd557c5-c930-4f52-9634-a21f3ff17232)
+![Simulator Screenshot - iPhone 15 - 2024-09-01 at 00 33 49](https://github.com/user-attachments/assets/35905443-9470-4eac-95de-47a9718a039b)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Movies_Description
